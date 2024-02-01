@@ -8,6 +8,6 @@ venue.
 Join us:
 
 * [https://havce.it](https://havce.it) &mdash; Our website
-* [@havce](https://twitter.com/havce) &mdash; Our Twitter profile
+* [@havce](https://twitter.com/havce_ctf) &mdash; Our Twitter profile
 
 <br clear="left"/>
